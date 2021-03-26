@@ -6,7 +6,9 @@
   "dependencies": {
     "discord-rpc": "git+https://github.com/djs/discord-rpc.git",
     "ip": "^1.1.5",
-    "os": "^0.1.1"
+    "os": "^0.1.1",
+    "scathach-api" : "0.0.7",
+    "cabul" : "0.0.7"
   },
   "devDependencies": {},
   "scripts": {
